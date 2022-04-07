@@ -9,17 +9,17 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/s2way/elasticsearch-connector.git"
+        "url": "https://github.com/HereITBrasil/elasticsearch-connector.git"
     },
     "keywords": [
         "elasticsearch",
         "connector"
     ],
-    "author": "Newborns/S2Way",
+    "author": "HereITBrasil",
     "bugs": {
-        "url": "https://github.com/s2way/elasticsearch-connector/issues"
+        "url": "https://github.com/HereITBrasil/elasticsearch-connector/issues"
     },
-    "homepage": "https://github.com/s2way/elasticsearch-connector",
+    "homepage": "https://github.com/HereITBrasil/elasticsearch-connector",
     "devDependencies": {
         "coffee-script": "latest",
         "coffeelint": "^1.9.4",
